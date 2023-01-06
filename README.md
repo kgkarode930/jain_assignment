@@ -1,6 +1,16 @@
-<p> Steps to run the laravel project </p>
+<p align="center"> Steps to run the laravel project </p>
 
 
+<p> 1. install composer by command -> `composer install`  </p>
+<p> 2. .env changes -> update database details wherre you want to connect db </p>
+<p> 3. run migration -> `php artisan migrate` </p>
+<p> 4. run seeder -> `php artisan db:seed` </p>
+<p> 5. run command to start server -> `php artisan serve` </p>
+<p> 5. hit the link on browser -> http://127.0.0.1:8000 </p>
+
+login credentials for admin _>
+  username -> admin@admin.com
+  password -> 12345678
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
